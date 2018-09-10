@@ -1,1 +1,3 @@
-# Visualizing_Data_Leaflet
+# Visualizing Data with Leaflet
+
+A project visualizing earthquake data
